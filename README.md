@@ -1,4 +1,4 @@
-# TP_Héritage
+# TP Héritage - C++
 
 Ce TP a pour but de nous familiariser avec les concepts et mécanismes de base des langages à objets (classes, héritage, polymorphisme…) et avec leur expression en langage C++.
 
