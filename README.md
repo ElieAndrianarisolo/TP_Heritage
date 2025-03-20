@@ -1,27 +1,27 @@
-# TP Héritage - C++
+# TP Inheritance - C++
 
-Ce TP a pour but de nous familiariser avec les concepts et mécanismes de base des langages à objets (classes, héritage, polymorphisme…) et avec leur expression en langage C++.
+The goal of this assignment is to familiarize ourselves with the basic concepts and mechanisms of object-oriented languages (classes, inheritance, polymorphism, etc.) and their implementation in C++.
 
-Pour atteindre cet objectif, nous nous sommes appuyés sur une application simple visant à proposer des parcours pour un voyage défini par une ville de départ et une ville d’arrivée, et tout cela à partir d’un catalogue de trajets à implémenter par nos soins. Ce problème donne lieu à la manipulation d’un objet correspondant à une collection d’objets hétérogènes qu’il faut gérer sans distinction de leur nature en exploitant le polymorphisme et la liaison dynamique.
+To achieve this objective, we relied on a simple application aimed at offering travel routes for a trip defined by a starting city and a destination city, all based on a catalog of routes to be implemented by us. This problem involves handling an object corresponding to a collection of heterogeneous objects, which must be managed without distinction of their type by exploiting polymorphism and dynamic binding.
 
-## Objectifs
+## Objectives
 
-- Se familiariser avec les concepts de base des langages à objets : 
+- Get familiar with the basic concepts of object-oriented languages:
   - Classes
-  - Héritage
-  - Polymorphisme
-- Apprendre à exprimer ces concepts en langage C++.
+  - Inheritance
+  - Polymorphism
+- Learn how to express these concepts in C++.
 
 ## Application
 
-L'application vise à proposer des parcours pour un voyage, défini par :
-- Une ville de départ
-- Une ville d’arrivée
+The application aims to offer travel routes for a trip, defined by:
+- A starting city
+- A destination city
 
-### Catalogue de Trajets
+### Route Catalog
 
-- Implémentation d'un catalogue de trajets.
-- Manipulation d’un objet représentant une collection d’objets hétérogènes.
-- Gestion de ces objets en utilisant :
-  - Polymorphisme
-  - Liaison dynamique
+- Implementation of a route catalog.
+- Handling an object representing a collection of heterogeneous objects.
+- Managing these objects using:
+  - Polymorphism
+  - Dynamic binding
